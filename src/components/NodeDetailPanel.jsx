@@ -12,7 +12,6 @@ export default function NodeDetailPanel({ node, onClose }) {
     fetch('/node_details.json')
       .then(res => res.json())
       .then(data => {
-        // Strip [S] or [T] suffix from split nodes to find original data
         const key = String(node.id).replace(/\s*\[(S|T)\]$/i, '');
         const foundDetails = data[key] || data[node.id] || null;
         
@@ -40,11 +39,9 @@ export default function NodeDetailPanel({ node, onClose }) {
       }));
   };
 
-  // Get the right data based on node type
   const getChartData = () => {
     if (!details) return { chart1: [], chart2: [] };
     
-    // For sponsors: targets field contains actors they sponsor, sources contains who sponsors them
     if (node.type === 'sponsor') {
       return {
         chart1: kvToSortedArr(details.targets),
@@ -54,7 +51,6 @@ export default function NodeDetailPanel({ node, onClose }) {
       };
     }
     
-    // For actors: targets are who they attack, sources are their sponsors
     if (node.type === 'actor') {
       return {
         chart1: kvToSortedArr(details.targets),
@@ -64,7 +60,6 @@ export default function NodeDetailPanel({ node, onClose }) {
       };
     }
     
-    // For victims: sources are sponsors/actors attacking them
     if (node.type === 'victim') {
       return {
         chart1: kvToSortedArr(details.sources),
@@ -74,7 +69,6 @@ export default function NodeDetailPanel({ node, onClose }) {
       };
     }
     
-    // Default fallback
     return {
       chart1: kvToSortedArr(details.targets),
       chart1Label: 'RELATED ENTITIES',
@@ -85,83 +79,109 @@ export default function NodeDetailPanel({ node, onClose }) {
 
   const chartData = getChartData();
 
+  // Keep both charts aligned by using a shared Y-axis width derived from the longest rendered label.
+  const getYAxisWidth = (datasets) => {
+    const maxLen = (datasets || []).reduce((m, arr) => {
+      if (!arr || !arr.length) return m;
+      const ml = arr.reduce((mm, it) => Math.max(mm, (it.name || '').length), 0);
+      return Math.max(m, ml);
+    }, 0);
+    return Math.min(160, Math.max(75, Math.round(maxLen * 7))); // ~7px per char, clamped
+  };
+
+  const yAxisWidth = getYAxisWidth([chartData.chart1, chartData.chart2]);
+  const chartMargins = { top: 8, right: 14, bottom: 8, left: 14 };
+
   return (
-    <div className="node-detail-panel">
+    <div className={`node-detail-panel ${isMinimized ? 'minimized' : ''}`}>
       <div className="panel-header">
         <div className="panel-title">
           <div className="panel-label">NODE ANALYSIS</div>
           <h2>{node.id}</h2>
         </div>
-        <button className="panel-close" onClick={onClose}>×</button>
-      </div>
-
-      <div className="panel-meta">
-        <div>
-          <span>TYPE</span>
-          <strong>{(node.type || '—').toUpperCase()}</strong>
-        </div>
-        <div>
-          <span>TOTAL INCIDENTS</span>
-          <strong>{details?.total_incidents ?? '—'}</strong>
-        </div>
-        <div>
-          <span>CONNECTIONS</span>
-          <strong>{node.degree ?? '—'}</strong>
+        <div className="panel-actions">
+          <button 
+            className="panel-minimize" 
+            onClick={() => setIsMinimized(!isMinimized)}
+            title={isMinimized ? "Expand" : "Minimize"}
+          >
+            {isMinimized ? '▲' : '▼'}
+          </button>
+          <button className="panel-close" onClick={onClose}>×</button>
         </div>
       </div>
 
-      {!loading && (chartData.chart1.length > 0 || chartData.chart2.length > 0) && (
-        <div className="panel-charts">
-          {chartData.chart1.length > 0 && (
-            <div className="chart-block">
-              <div className="chart-title">{chartData.chart1Label}</div>
-              <div className="chart">
-                <ResponsiveContainer width="100%" height={260}>
-                  <BarChart data={chartData.chart1} layout="vertical" margin={{ top: 8, right: 10, bottom: 8, left: 0 }}>
-                    <XAxis type="number" tick={{ fontSize: 11, fill: '#9AA8B7' }} />
-                    <YAxis type="category" dataKey="name" width={160} tick={{ fontSize: 11, fill: '#D8E1EA' }} />
-                    <Tooltip 
-                      contentStyle={{ background: '#0C1117', border: '1px solid #2A3746', fontSize: 11 }} 
-                      cursor={{ fill: 'rgba(121, 166, 255, 0.1)' }}
-                    />
-                    <Bar dataKey="count" fill="#6FA7FF" />
-                  </BarChart>
-                </ResponsiveContainer>
-              </div>
+      {!isMinimized && (
+        <>
+          <div className="panel-meta">
+            <div>
+              <span>TYPE</span>
+              <strong>{(node.type || '—').toUpperCase()}</strong>
+            </div>
+            <div>
+              <span>TOTAL INCIDENTS</span>
+              <strong>{details?.total_incidents ?? '—'}</strong>
+            </div>
+            <div>
+              <span>CONNECTIONS</span>
+              <strong>{node.degree ?? '—'}</strong>
+            </div>
+          </div>
+
+          {!loading && (chartData.chart1.length > 0 || chartData.chart2.length > 0) && (
+            <div className="panel-charts">
+              {chartData.chart1.length > 0 && (
+                <div className="chart-block">
+                  <div className="chart-title">{chartData.chart1Label}</div>
+                  <div className="chart">
+                    <ResponsiveContainer width="100%" height={260}>
+                      <BarChart data={chartData.chart1} layout="vertical" margin={chartMargins}>
+                        <XAxis type="number" tick={{ fontSize: 11, fill: '#9AA8B7' }} />
+                        <YAxis type="category" dataKey="name" width={yAxisWidth} tick={{ fontSize: 11, fill: '#D8E1EA' }} />
+                        <Tooltip 
+                          contentStyle={{ background: '#0C1117', border: '1px solid #2A3746', fontSize: 11 }} 
+                          cursor={{ fill: 'rgba(121, 166, 255, 0.1)' }}
+                        />
+                        <Bar dataKey="count" fill="#6FA7FF" />
+                      </BarChart>
+                    </ResponsiveContainer>
+                  </div>
+                </div>
+              )}
+
+              {chartData.chart2.length > 0 && (
+                <div className="chart-block">
+                  <div className="chart-title">{chartData.chart2Label}</div>
+                  <div className="chart">
+                    <ResponsiveContainer width="100%" height={260}>
+                      <BarChart data={chartData.chart2} layout="vertical" margin={chartMargins}>
+                        <XAxis type="number" tick={{ fontSize: 11, fill: '#9AA8B7' }} />
+                        <YAxis type="category" dataKey="name" width={yAxisWidth} tick={{ fontSize: 11, fill: '#D8E1EA' }} />
+                        <Tooltip 
+                          contentStyle={{ background: '#0C1117', border: '1px solid #2A3746', fontSize: 11 }}
+                          cursor={{ fill: 'rgba(121, 166, 255, 0.1)' }}
+                        />
+                        <Bar dataKey="count" fill="#E0555A" />
+                      </BarChart>
+                    </ResponsiveContainer>
+                  </div>
+                </div>
+              )}
             </div>
           )}
 
-          {chartData.chart2.length > 0 && (
-            <div className="chart-block">
-              <div className="chart-title">{chartData.chart2Label}</div>
-              <div className="chart">
-                <ResponsiveContainer width="100%" height={260}>
-                  <BarChart data={chartData.chart2} layout="vertical" margin={{ top: 8, right: 10, bottom: 8, left: 0 }}>
-                    <XAxis type="number" tick={{ fontSize: 11, fill: '#9AA8B7' }} />
-                    <YAxis type="category" dataKey="name" width={160} tick={{ fontSize: 11, fill: '#D8E1EA' }} />
-                    <Tooltip 
-                      contentStyle={{ background: '#0C1117', border: '1px solid #2A3746', fontSize: 11 }}
-                      cursor={{ fill: 'rgba(121, 166, 255, 0.1)' }}
-                    />
-                    <Bar dataKey="count" fill="#E0555A" />
-                  </BarChart>
-                </ResponsiveContainer>
-              </div>
+          {!loading && chartData.chart1.length === 0 && chartData.chart2.length === 0 && (
+            <div style={{ padding: '20px', textAlign: 'center', color: '#9AA8B7' }}>
+              No detailed data available for this node
             </div>
           )}
-        </div>
-      )}
 
-      {!loading && chartData.chart1.length === 0 && chartData.chart2.length === 0 && (
-        <div style={{ padding: '20px', textAlign: 'center', color: '#9AA8B7' }}>
-          No detailed data available for this node
-        </div>
-      )}
-
-      {loading && (
-        <div style={{ padding: '20px', textAlign: 'center', color: '#9AA8B7' }}>
-          Loading details...
-        </div>
+          {loading && (
+            <div style={{ padding: '20px', textAlign: 'center', color: '#9AA8B7' }}>
+              Loading details...
+            </div>
+          )}
+        </>
       )}
     </div>
   );
