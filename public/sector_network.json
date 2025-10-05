@@ -1,0 +1,4254 @@
+{
+  "nodes": [
+    {
+      "id": "APT 10",
+      "degree": 5,
+      "type": "actor"
+    },
+    {
+      "id": "Financial",
+      "degree": 9,
+      "type": "victim"
+    },
+    {
+      "id": "Government",
+      "degree": 94,
+      "type": "victim"
+    },
+    {
+      "id": "Telecom",
+      "degree": 27,
+      "type": "victim"
+    },
+    {
+      "id": "Telecommunications",
+      "degree": 17,
+      "type": "victim"
+    },
+    {
+      "id": "APT 18",
+      "degree": 5,
+      "type": "actor"
+    },
+    {
+      "id": "Industrial",
+      "degree": 5,
+      "type": "victim"
+    },
+    {
+      "id": "Military",
+      "degree": 22,
+      "type": "victim"
+    },
+    {
+      "id": "Research",
+      "degree": 24,
+      "type": "victim"
+    },
+    {
+      "id": "APT 20",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "APT 28",
+      "degree": 12,
+      "type": "actor"
+    },
+    {
+      "id": "Aerospace",
+      "degree": 14,
+      "type": "victim"
+    },
+    {
+      "id": "Defense",
+      "degree": 32,
+      "type": "victim"
+    },
+    {
+      "id": "Energy",
+      "degree": 10,
+      "type": "victim"
+    },
+    {
+      "id": "Infrastructure",
+      "degree": 11,
+      "type": "victim"
+    },
+    {
+      "id": "Media",
+      "degree": 12,
+      "type": "victim"
+    },
+    {
+      "id": "Pharmaceutical",
+      "degree": 9,
+      "type": "victim"
+    },
+    {
+      "id": "APT 31, Hurricane Panda",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "APT 31, Judgement Panda",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "APT 33",
+      "degree": 5,
+      "type": "actor"
+    },
+    {
+      "id": "APT 34",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Oil",
+      "degree": 4,
+      "type": "victim"
+    },
+    {
+      "id": "APT 36",
+      "degree": 8,
+      "type": "actor"
+    },
+    {
+      "id": "Civil society",
+      "degree": 6,
+      "type": "victim"
+    },
+    {
+      "id": "Education",
+      "degree": 8,
+      "type": "victim"
+    },
+    {
+      "id": "APT 36, Mythic Leopard",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "APT 40",
+      "degree": 6,
+      "type": "actor"
+    },
+    {
+      "id": "Gas",
+      "degree": 3,
+      "type": "victim"
+    },
+    {
+      "id": "APT 41",
+      "degree": 5,
+      "type": "actor"
+    },
+    {
+      "id": "Manufacturing",
+      "degree": 8,
+      "type": "victim"
+    },
+    {
+      "id": "Technology",
+      "degree": 14,
+      "type": "victim"
+    },
+    {
+      "id": "APT 5",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "APT-C-23",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Affiliated with the Chinese government.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Aggah, Gorgon Group",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Agrius",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Allosh, Syrian Government",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Also known as APT 2, PLA Unit 61486, and TG-6952",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Also known as APT 43",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Also known as AridViper and\u00a0Desert Falcon.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Also known as Charming Kitten, APT 35, Newscaster, Ajax Security Team, Phosphorus, Group 83, TA453, and Cobalt Illusion. Possibly linked to Rocket Kitten",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Also known as Flying Kitten, Sayad, Ajax Security Team, and Group 26",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Internet",
+      "degree": 6,
+      "type": "victim"
+    },
+    {
+      "id": "Also known as PLA Unit 69010.",
+      "degree": 7,
+      "type": "actor"
+    },
+    {
+      "id": "Also known as Parasite",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Also known as Sharp Dragon, believed to be affiliated with the Chinese government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Also known as Thallium, Smoke Screen, Emerald Sleet, TA-406, Sharptongue, Black Banshee, and APT43.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "University",
+      "degree": 11,
+      "type": "victim"
+    },
+    {
+      "id": "Also known as\u00a0Lyceum. The group has also been connected to OilRig.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Software",
+      "degree": 5,
+      "type": "victim"
+    },
+    {
+      "id": "Antlion",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Australia",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Australian Signals Directorate",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Belarus",
+      "degree": 2,
+      "type": "sponsor"
+    },
+    {
+      "id": "Belarus, Ghostwriter.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "UNC1151",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "Belarus, Russian Federation",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Believed to be Lazarus Group",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be affiliated with the Chinese government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be affiliated with the Indian government.",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be affiliated with the Russian government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be affiliated with the Russian government. Also known as From Russia With Love (FRwL).",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Insurance",
+      "degree": 1,
+      "type": "victim"
+    },
+    {
+      "id": "Believed to be associated with the North Korean government",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be responsible for Dark Seoul, Ten Days of Rain, the Sony Pictures Entertainment attack,\u00a0the SWIFT-related bank heists,\u00a0WannaCry, and\u00a0Operation GhostSecret. Believed to use the same tools as Covellite.\u00a0Known to the U.S. government as Hidden Cobra.\u00a0Also known as BlueNoroff and Temp.Hermit.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of China's government",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of China's government.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of El Salvador's government.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of Hamas.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of Iran's government.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of Kimusky, also known as Thallium and Smoke Screen.",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of Leviathan.",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of Palestine's government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of Russia's government",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of Saffron Rose",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of the Chinese government",
+      "degree": 11,
+      "type": "actor"
+    },
+    {
+      "id": "Academic",
+      "degree": 10,
+      "type": "victim"
+    },
+    {
+      "id": "Believed to be the work of the Chinese government.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of the Iranian government",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of the Islamic Republic of Iran's government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of the Pakistani government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of the Russian government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Broadcasting",
+      "degree": 1,
+      "type": "victim"
+    },
+    {
+      "id": "Believed to be the work of the Spanish government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of the United Arab Emirates government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of the government of Iran.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to be the work of the government of the Russian Federation.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Believed to have been partially the work of Chrysene",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Aviation",
+      "degree": 5,
+      "type": "victim"
+    },
+    {
+      "id": "Believed\u00a0to be partially the work of PLA Unit 61398.",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "BlackTech",
+      "degree": 6,
+      "type": "actor"
+    },
+    {
+      "id": "Calisto",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "Calypso",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Cerium",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Chafer",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Transportation",
+      "degree": 5,
+      "type": "victim"
+    },
+    {
+      "id": "Charming Kitten",
+      "degree": 7,
+      "type": "actor"
+    },
+    {
+      "id": "Medical",
+      "degree": 6,
+      "type": "victim"
+    },
+    {
+      "id": "China",
+      "degree": 76,
+      "type": "sponsor"
+    },
+    {
+      "id": "China's Jiangsu Ministry of State Security",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "China's Tianjin State Security Bureau",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Chinese government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Chinese government.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Comment Crew",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Emissary Panda",
+      "degree": 10,
+      "type": "actor"
+    },
+    {
+      "id": "Gallium",
+      "degree": 6,
+      "type": "actor"
+    },
+    {
+      "id": "Goblin Panda",
+      "degree": 5,
+      "type": "actor"
+    },
+    {
+      "id": "Government of China",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "Guangdong State Security Department (GSSD) of China\u2019s Ministry of State Security (MSS)",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Hafnium",
+      "degree": 7,
+      "type": "actor"
+    },
+    {
+      "id": "HoneyMyte, Mustang Panda, Bronze President",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "KilllSomeOne",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Mirage",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "Mustang Panda",
+      "degree": 7,
+      "type": "actor"
+    },
+    {
+      "id": "MysterySnail",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Naikon, APT 30, Deadringer",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "PLA Unit 69010, RedFoxTrot",
+      "degree": 7,
+      "type": "actor"
+    },
+    {
+      "id": "Pirate Panda",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Rancor",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Red Menshen",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "RedAlpha",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "RedFoxTrot",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Sharp Panda",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Sneaky Panda is among some of the actors suspected to be behind this incident.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Soft Cell, GALLIUM, Deadringer",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Suspected to be the work of Chinese military hackers.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "TA428, Wekby, Dynamite Panda",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "TAG-22, Winnti Umbrella",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "TAG-28",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Thrip",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Tick",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "Tonto Team",
+      "degree": 5,
+      "type": "actor"
+    },
+    {
+      "id": "UNC215",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Vicious Panda",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Volt Typhoon",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "WInnti Umbrella",
+      "degree": 6,
+      "type": "actor"
+    },
+    {
+      "id": "Wicked Panda",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Winnti Umbrella",
+      "degree": 5,
+      "type": "actor"
+    },
+    {
+      "id": "Winnti Umbrella, Grayfly",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Confucius",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "Crouching Yeti",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Egypt",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Government of Egypt",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "El Salvador",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Fancy Bear, APT 28",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Fox Kitten",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Gamaredon",
+      "degree": 6,
+      "type": "actor"
+    },
+    {
+      "id": "Ghostwriter",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "Golden Falcon",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Government of Morocco",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Government of Turkey",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Greenbug",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Hidden Cobra",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "India",
+      "degree": 6,
+      "type": "sponsor"
+    },
+    {
+      "id": "Patchwork",
+      "degree": 6,
+      "type": "actor"
+    },
+    {
+      "id": "SideWinder",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Iran (Islamic Republic of)",
+      "degree": 34,
+      "type": "sponsor"
+    },
+    {
+      "id": "Iran, APT 35",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "Iranian Revolutionary Guard",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Iranian government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "MalKamak",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "MuddyWater",
+      "degree": 8,
+      "type": "actor"
+    },
+    {
+      "id": "Phosphorus",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Pioneer Kitten",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Siamesekitten, Lyceum",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Siamesekitten, OilRig",
+      "degree": 5,
+      "type": "actor"
+    },
+    {
+      "id": "Static Kitten",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "TA453, Charming Kitten",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Tortoiseshell, \u00a0Charming Kitten",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Utilities",
+      "degree": 1,
+      "type": "victim"
+    },
+    {
+      "id": "Japan",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Kazakhstan",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Kimsuky",
+      "degree": 12,
+      "type": "actor"
+    },
+    {
+      "id": "Konni Group",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Korea (Democratic People's Republic of)",
+      "degree": 18,
+      "type": "sponsor"
+    },
+    {
+      "id": "Lazarus Group",
+      "degree": 17,
+      "type": "actor"
+    },
+    {
+      "id": "Moonstone Sleet",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Sandworm",
+      "degree": 11,
+      "type": "actor"
+    },
+    {
+      "id": "The Lazarus Group",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Zinc",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Banking",
+      "degree": 2,
+      "type": "victim"
+    },
+    {
+      "id": "Morocco",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Myanmar",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "National Security Agency, Tailored Access Operations",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Nodaria",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Ocean Lotus",
+      "degree": 3,
+      "type": "actor"
+    },
+    {
+      "id": "Pakistan",
+      "degree": 8,
+      "type": "actor"
+    },
+    {
+      "id": "Palestine, State of",
+      "degree": 4,
+      "type": "sponsor"
+    },
+    {
+      "id": "Possibly linked to Sandworm.",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Russia",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "Russian Federation",
+      "degree": 22,
+      "type": "actor"
+    },
+    {
+      "id": "Russian government",
+      "degree": 2,
+      "type": "actor"
+    },
+    {
+      "id": "The Dukes",
+      "degree": 6,
+      "type": "actor"
+    },
+    {
+      "id": "Turla",
+      "degree": 4,
+      "type": "actor"
+    },
+    {
+      "id": "Spain",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Syrian Arab Republic",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Taiwan, United States",
+      "degree": 5,
+      "type": "sponsor"
+    },
+    {
+      "id": "Turkey",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Ukraine",
+      "degree": 3,
+      "type": "sponsor"
+    },
+    {
+      "id": "Ukrainian IT Army",
+      "degree": 10,
+      "type": "actor"
+    },
+    {
+      "id": "United Arab Emirates",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "United States",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Unknown",
+      "degree": 1,
+      "type": "sponsor"
+    },
+    {
+      "id": "Vietnam",
+      "degree": 1,
+      "type": "sponsor"
+    }
+  ],
+  "links": [
+    {
+      "source": "APT 10",
+      "target": "Financial",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 10",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 10",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 10",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 18",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 18",
+      "target": "Industrial",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 18",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 18",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 20",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 28",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 28",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 28",
+      "target": "Energy",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 28",
+      "target": "Government",
+      "weight": 8,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 28",
+      "target": "Infrastructure",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 28",
+      "target": "Media",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 28",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 28",
+      "target": "Pharmaceutical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 28",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 28",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 28",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 31, Hurricane Panda",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 31, Judgement Panda",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 33",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 33",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 33",
+      "target": "Industrial",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 33",
+      "target": "Pharmaceutical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 34",
+      "target": "Government",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 34",
+      "target": "Oil",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 36",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 36",
+      "target": "Civil society",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 36",
+      "target": "Defense",
+      "weight": 3,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 36",
+      "target": "Education",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 36",
+      "target": "Government",
+      "weight": 7,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 36",
+      "target": "Military",
+      "weight": 3,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 36",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 36, Mythic Leopard",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 40",
+      "target": "Gas",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 40",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 40",
+      "target": "Oil",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 40",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 40",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 41",
+      "target": "Government",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 41",
+      "target": "Manufacturing",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 41",
+      "target": "Media",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 41",
+      "target": "Technology",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT 5",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "APT-C-23",
+      "target": "Defense",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Affiliated with the Chinese government.",
+      "target": "Infrastructure",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Aggah, Gorgon Group",
+      "target": "Manufacturing",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Agrius",
+      "target": "Education",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Agrius",
+      "target": "Technology",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Allosh, Syrian Government",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Allosh, Syrian Government",
+      "target": "Media",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as APT 2, PLA Unit 61486, and TG-6952",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as APT 43",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as AridViper and\u00a0Desert Falcon.",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as Charming Kitten, APT 35, Newscaster, Ajax Security Team, Phosphorus, Group 83, TA453, and Cobalt Illusion. Possibly linked to Rocket Kitten",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as Charming Kitten, APT 35, Newscaster, Ajax Security Team, Phosphorus, Group 83, TA453, and Cobalt Illusion. Possibly linked to Rocket Kitten",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as Flying Kitten, Sayad, Ajax Security Team, and Group 26",
+      "target": "Internet",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as PLA Unit 69010.",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as PLA Unit 69010.",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as PLA Unit 69010.",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as PLA Unit 69010.",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as PLA Unit 69010.",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as PLA Unit 69010.",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as Parasite",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as Sharp Dragon, believed to be affiliated with the Chinese government",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as Thallium, Smoke Screen, Emerald Sleet, TA-406, Sharptongue, Black Banshee, and APT43.",
+      "target": "University",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Also known as\u00a0Lyceum. The group has also been connected to OilRig.",
+      "target": "Software",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Antlion",
+      "target": "Financial",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Australia",
+      "target": "Australian Signals Directorate",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Australian Signals Directorate",
+      "target": "Infrastructure",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Belarus",
+      "target": "Belarus, Ghostwriter.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Belarus",
+      "target": "UNC1151",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Belarus, Ghostwriter.",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Belarus, Russian Federation",
+      "target": "UNC1151",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Believed to be Lazarus Group",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be Lazarus Group",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be affiliated with the Chinese government",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be affiliated with the Indian government.",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be affiliated with the Indian government.",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be affiliated with the Russian government",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be affiliated with the Russian government. Also known as From Russia With Love (FRwL).",
+      "target": "Financial",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be affiliated with the Russian government. Also known as From Russia With Love (FRwL).",
+      "target": "Insurance",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be associated with the North Korean government",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be associated with the North Korean government",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be responsible for Dark Seoul, Ten Days of Rain, the Sony Pictures Entertainment attack,\u00a0the SWIFT-related bank heists,\u00a0WannaCry, and\u00a0Operation GhostSecret. Believed to use the same tools as Covellite.\u00a0Known to the U.S. government as Hidden Cobra.\u00a0Also known as BlueNoroff and Temp.Hermit.",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of China's government",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of China's government",
+      "target": "Media",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of China's government.",
+      "target": "Technology",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of El Salvador's government.",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of Hamas.",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of Iran's government.",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of Kimusky, also known as Thallium and Smoke Screen.",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of Kimusky, also known as Thallium and Smoke Screen.",
+      "target": "University",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of Leviathan.",
+      "target": "Technology",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of Leviathan.",
+      "target": "University",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of Palestine's government",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of Russia's government",
+      "target": "Defense",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of Russia's government",
+      "target": "Internet",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of Russia's government",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of Saffron Rose",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Chinese government",
+      "target": "Academic",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Chinese government",
+      "target": "Education",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Chinese government",
+      "target": "Financial",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Chinese government",
+      "target": "Government",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Chinese government",
+      "target": "Infrastructure",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Chinese government",
+      "target": "Manufacturing",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Chinese government",
+      "target": "Research",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Chinese government",
+      "target": "Technology",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Chinese government",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Chinese government",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Chinese government.",
+      "target": "Government",
+      "weight": 4,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Iranian government",
+      "target": "Government",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Iranian government",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Iranian government",
+      "target": "University",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Islamic Republic of Iran's government",
+      "target": "Infrastructure",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Pakistani government",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Russian government",
+      "target": "Broadcasting",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the Spanish government",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the United Arab Emirates government",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the government of Iran.",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to be the work of the government of the Russian Federation.",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed to have been partially the work of Chrysene",
+      "target": "Aviation",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed\u00a0to be partially the work of PLA Unit 61398.",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Believed\u00a0to be partially the work of PLA Unit 61398.",
+      "target": "Energy",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "BlackTech",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "BlackTech",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "BlackTech",
+      "target": "Media",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "BlackTech",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Calisto",
+      "target": "Academic",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Calisto",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Calisto",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Calypso",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Cerium",
+      "target": "Pharmaceutical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Cerium",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Chafer",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Chafer",
+      "target": "Transportation",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Charming Kitten",
+      "target": "Academic",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Charming Kitten",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Charming Kitten",
+      "target": "Government",
+      "weight": 3,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Charming Kitten",
+      "target": "Industrial",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Charming Kitten",
+      "target": "Medical",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Charming Kitten",
+      "target": "Research",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "APT 10",
+      "weight": 4,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "APT 18",
+      "weight": 4,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "APT 20",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "APT 31, Hurricane Panda",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "APT 31, Judgement Panda",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "APT 40",
+      "weight": 5,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "APT 41",
+      "weight": 5,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "APT 5",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Academic",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Affiliated with the Chinese government.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Also known as APT 2, PLA Unit 61486, and TG-6952",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Also known as PLA Unit 69010.",
+      "weight": 6,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Also known as Sharp Dragon, believed to be affiliated with the Chinese government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Antlion",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Believed to be affiliated with the Chinese government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Believed to be the work of China's government",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Believed to be the work of China's government.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Believed to be the work of Leviathan.",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Believed to be the work of the Chinese government",
+      "weight": 12,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Believed to be the work of the Chinese government.",
+      "weight": 4,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Believed\u00a0to be partially the work of PLA Unit 61398.",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "BlackTech",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Calypso",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "China's Jiangsu Ministry of State Security",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "China's Tianjin State Security Bureau",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Chinese government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Chinese government.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Civil society",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Comment Crew",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Defense",
+      "weight": 8,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Education",
+      "weight": 2,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Emissary Panda",
+      "weight": 12,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Energy",
+      "weight": 2,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Financial",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Gallium",
+      "weight": 11,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Goblin Panda",
+      "weight": 4,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Government",
+      "weight": 8,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Government of China",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Guangdong State Security Department (GSSD) of China\u2019s Ministry of State Security (MSS)",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Hafnium",
+      "weight": 6,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "HoneyMyte, Mustang Panda, Bronze President",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "KilllSomeOne",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Medical",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Mirage",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Mustang Panda",
+      "weight": 10,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "MysterySnail",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Naikon, APT 30, Deadringer",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Oil",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "PLA Unit 69010, RedFoxTrot",
+      "weight": 6,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Pirate Panda",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Rancor",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Red Menshen",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "RedAlpha",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "RedFoxTrot",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Research",
+      "weight": 6,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Sharp Panda",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Sneaky Panda is among some of the actors suspected to be behind this incident.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Soft Cell, GALLIUM, Deadringer",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Suspected to be the work of Chinese military hackers.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "TA428, Wekby, Dynamite Panda",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "TAG-22, Winnti Umbrella",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "TAG-28",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Telecom",
+      "weight": 3,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Thrip",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Tick",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Tonto Team",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Transportation",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "UNC215",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "University",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "China",
+      "target": "Vicious Panda",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Volt Typhoon",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "WInnti Umbrella",
+      "weight": 5,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Wicked Panda",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Winnti Umbrella",
+      "weight": 6,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China",
+      "target": "Winnti Umbrella, Grayfly",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "China's Jiangsu Ministry of State Security",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "China's Tianjin State Security Bureau",
+      "target": "Technology",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Chinese government",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Chinese government.",
+      "target": "Manufacturing",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Comment Crew",
+      "target": "Gas",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Comment Crew",
+      "target": "Oil",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Confucius",
+      "target": "Energy",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Confucius",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Confucius",
+      "target": "Military",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Crouching Yeti",
+      "target": "Infrastructure",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Egypt",
+      "target": "Government of Egypt",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "El Salvador",
+      "target": "Believed to be the work of El Salvador's government.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Emissary Panda",
+      "target": "Civil society",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Emissary Panda",
+      "target": "Government",
+      "weight": 4,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Emissary Panda",
+      "target": "Infrastructure",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Emissary Panda",
+      "target": "Manufacturing",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Emissary Panda",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Emissary Panda",
+      "target": "Pharmaceutical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Emissary Panda",
+      "target": "Technology",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Emissary Panda",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Emissary Panda",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Fancy Bear, APT 28",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Fox Kitten",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Gallium",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Gallium",
+      "target": "Financial",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Gallium",
+      "target": "Government",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Gallium",
+      "target": "Telecom",
+      "weight": 4,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Gallium",
+      "target": "Telecommunications",
+      "weight": 3,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Gamaredon",
+      "target": "Civil society",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Gamaredon",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Gamaredon",
+      "target": "Government",
+      "weight": 9,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Gamaredon",
+      "target": "Infrastructure",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Gamaredon",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ghostwriter",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ghostwriter",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ghostwriter",
+      "target": "University",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Goblin Panda",
+      "target": "Media",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Goblin Panda",
+      "target": "Technology",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Goblin Panda",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Goblin Panda",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Golden Falcon",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Government of China",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Government of China",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Government of China",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Government of Egypt",
+      "target": "Academic",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Government of Morocco",
+      "target": "Academic",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Government of Turkey",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Greenbug",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Guangdong State Security Department (GSSD) of China\u2019s Ministry of State Security (MSS)",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Hafnium",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Hafnium",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Hafnium",
+      "target": "Internet",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Hafnium",
+      "target": "Medical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Hafnium",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Hafnium",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Hidden Cobra",
+      "target": "Financial",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "HoneyMyte, Mustang Panda, Bronze President",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "India",
+      "target": "Academic",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "India",
+      "target": "Believed to be affiliated with the Indian government.",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "India",
+      "target": "Confucius",
+      "weight": 4,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "India",
+      "target": "Military",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "India",
+      "target": "Patchwork",
+      "weight": 5,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "India",
+      "target": "SideWinder",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "APT 33",
+      "weight": 4,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "APT 34",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Agrius",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Also known as Charming Kitten, APT 35, Newscaster, Ajax Security Team, Phosphorus, Group 83, TA453, and Cobalt Illusion. Possibly linked to Rocket Kitten",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Also known as Flying Kitten, Sayad, Ajax Security Team, and Group 26",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Also known as Parasite",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Also known as\u00a0Lyceum. The group has also been connected to OilRig.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Aviation",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Believed to be the work of Iran's government.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Believed to be the work of Saffron Rose",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Believed to be the work of the Iranian government",
+      "weight": 4,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Believed to be the work of the Islamic Republic of Iran's government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Believed to be the work of the government of Iran.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Chafer",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Charming Kitten",
+      "weight": 10,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Education",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Fox Kitten",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Gas",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Government",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Greenbug",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Iran, APT 35",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Iranian Revolutionary Guard",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Iranian government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "MalKamak",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "MuddyWater",
+      "weight": 16,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Phosphorus",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Pioneer Kitten",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Siamesekitten, Lyceum",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Siamesekitten, OilRig",
+      "weight": 4,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Static Kitten",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "TA453, Charming Kitten",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Telecom",
+      "weight": 2,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Iran (Islamic Republic of)",
+      "target": "Tortoiseshell, \u00a0Charming Kitten",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Iran, APT 35",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Iran, APT 35",
+      "target": "Pharmaceutical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Iran, APT 35",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Iranian Revolutionary Guard",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Iranian government",
+      "target": "Utilities",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Japan",
+      "target": "BlackTech",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kazakhstan",
+      "target": "Kazakhstan",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "KilllSomeOne",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kimsuky",
+      "target": "Academic",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kimsuky",
+      "target": "Aerospace",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kimsuky",
+      "target": "Defense",
+      "weight": 3,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kimsuky",
+      "target": "Education",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kimsuky",
+      "target": "Energy",
+      "weight": 4,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kimsuky",
+      "target": "Government",
+      "weight": 3,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kimsuky",
+      "target": "Medical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kimsuky",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kimsuky",
+      "target": "Pharmaceutical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kimsuky",
+      "target": "Research",
+      "weight": 6,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Kimsuky",
+      "target": "University",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Konni Group",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Also known as APT 43",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Also known as Thallium, Smoke Screen, Emerald Sleet, TA-406, Sharptongue, Black Banshee, and APT43.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Believed to be Lazarus Group",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Believed to be associated with the North Korean government",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Believed to be responsible for Dark Seoul, Ten Days of Rain, the Sony Pictures Entertainment attack,\u00a0the SWIFT-related bank heists,\u00a0WannaCry, and\u00a0Operation GhostSecret. Believed to use the same tools as Covellite.\u00a0Known to the U.S. government as Hidden Cobra.\u00a0Also known as BlueNoroff and Temp.Hermit.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Believed to be the work of Kimusky, also known as Thallium and Smoke Screen.",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Cerium",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Hidden Cobra",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Kimsuky",
+      "weight": 24,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Konni Group",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Lazarus Group",
+      "weight": 28,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Moonstone Sleet",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Pharmaceutical",
+      "weight": 2,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Research",
+      "weight": 2,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Sandworm",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "The Lazarus Group",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Tonto Team",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Korea (Democratic People's Republic of)",
+      "target": "Zinc",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Banking",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Defense",
+      "weight": 7,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Energy",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Financial",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Internet",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Manufacturing",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Media",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Medical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Research",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Software",
+      "weight": 3,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Technology",
+      "weight": 3,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Lazarus Group",
+      "target": "University",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "MalKamak",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "MalKamak",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Mirage",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Mirage",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Mirage",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Moonstone Sleet",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Morocco",
+      "target": "Government of Morocco",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "MuddyWater",
+      "target": "Aviation",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "MuddyWater",
+      "target": "Banking",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "MuddyWater",
+      "target": "Energy",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "MuddyWater",
+      "target": "Government",
+      "weight": 4,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "MuddyWater",
+      "target": "Technology",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "MuddyWater",
+      "target": "Telecom",
+      "weight": 4,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "MuddyWater",
+      "target": "Telecommunications",
+      "weight": 3,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Mustang Panda",
+      "target": "Government",
+      "weight": 9,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Mustang Panda",
+      "target": "Internet",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Mustang Panda",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Mustang Panda",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Myanmar",
+      "target": "Mustang Panda",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "MysterySnail",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Naikon, APT 30, Deadringer",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "National Security Agency, Tailored Access Operations",
+      "target": "University",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Nodaria",
+      "target": "Government",
+      "weight": 3,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ocean Lotus",
+      "target": "Government",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ocean Lotus",
+      "target": "Internet",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "PLA Unit 69010, RedFoxTrot",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "PLA Unit 69010, RedFoxTrot",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "PLA Unit 69010, RedFoxTrot",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "PLA Unit 69010, RedFoxTrot",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "PLA Unit 69010, RedFoxTrot",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "PLA Unit 69010, RedFoxTrot",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Pakistan",
+      "target": "APT 36",
+      "weight": 17,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Pakistan",
+      "target": "APT 36, Mythic Leopard",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Pakistan",
+      "target": "Aggah, Gorgon Group",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Pakistan",
+      "target": "Believed to be the work of the Pakistani government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Pakistan",
+      "target": "Energy",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Pakistan",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Pakistan",
+      "target": "Pakistan",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Palestine, State of",
+      "target": "APT-C-23",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Palestine, State of",
+      "target": "Also known as AridViper and\u00a0Desert Falcon.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Palestine, State of",
+      "target": "Believed to be the work of Hamas.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Palestine, State of",
+      "target": "Believed to be the work of Palestine's government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Patchwork",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Patchwork",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Patchwork",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Patchwork",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Patchwork",
+      "target": "University",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Phosphorus",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Pioneer Kitten",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Pirate Panda",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Possibly linked to Sandworm.",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Rancor",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Red Menshen",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Red Menshen",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Red Menshen",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "RedAlpha",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "RedFoxTrot",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Russia",
+      "target": "University",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "APT 28",
+      "weight": 18,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Believed to be affiliated with the Russian government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Believed to be affiliated with the Russian government. Also known as From Russia With Love (FRwL).",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Believed to be the work of Russia's government",
+      "weight": 4,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Believed to be the work of the Russian government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Believed to be the work of the government of the Russian Federation.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Calisto",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Crouching Yeti",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Fancy Bear, APT 28",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Gamaredon",
+      "weight": 13,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Ghostwriter",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Government",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Mustang Panda",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Nodaria",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Possibly linked to Sandworm.",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Russia",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Russian Federation",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Russian government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Sandworm",
+      "weight": 19,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "The Dukes",
+      "weight": 5,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian Federation",
+      "target": "Turla",
+      "weight": 5,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Russian government",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Sandworm",
+      "target": "Aviation",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Sandworm",
+      "target": "Defense",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Sandworm",
+      "target": "Government",
+      "weight": 5,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Sandworm",
+      "target": "Infrastructure",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Sandworm",
+      "target": "Media",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Sandworm",
+      "target": "Software",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Sandworm",
+      "target": "Telecom",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Sandworm",
+      "target": "Telecommunications",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Sandworm",
+      "target": "Transportation",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Sharp Panda",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Siamesekitten, Lyceum",
+      "target": "Software",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Siamesekitten, OilRig",
+      "target": "Energy",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Siamesekitten, OilRig",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Siamesekitten, OilRig",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Siamesekitten, OilRig",
+      "target": "Telecommunications",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "SideWinder",
+      "target": "Government",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Sneaky Panda is among some of the actors suspected to be behind this incident.",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Soft Cell, GALLIUM, Deadringer",
+      "target": "Telecom",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Spain",
+      "target": "Believed to be the work of the Spanish government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Static Kitten",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Suspected to be the work of Chinese military hackers.",
+      "target": "Industrial",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Syrian Arab Republic",
+      "target": "Allosh, Syrian Government",
+      "weight": 2,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "TA428, Wekby, Dynamite Panda",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "TA453, Charming Kitten",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "TAG-22, Winnti Umbrella",
+      "target": "Academic",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "TAG-22, Winnti Umbrella",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "TAG-22, Winnti Umbrella",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "TAG-28",
+      "target": "Media",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Taiwan, United States",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Taiwan, United States",
+      "target": "Defense",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Taiwan, United States",
+      "target": "Industrial",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Taiwan, United States",
+      "target": "Military",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Taiwan, United States",
+      "target": "Research",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "The Dukes",
+      "target": "Civil society",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "The Dukes",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "The Dukes",
+      "target": "Medical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "The Dukes",
+      "target": "Software",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "The Dukes",
+      "target": "Technology",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "The Lazarus Group",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Thrip",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Tick",
+      "target": "Academic",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Tick",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Tick",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Tonto Team",
+      "target": "Civil society",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Tonto Team",
+      "target": "Education",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Tonto Team",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Tortoiseshell, \u00a0Charming Kitten",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Turkey",
+      "target": "Government of Turkey",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Turla",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Turla",
+      "target": "Government",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Turla",
+      "target": "Military",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "UNC1151",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "UNC1151",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "UNC215",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ukraine",
+      "target": "Financial",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Ukraine",
+      "target": "Infrastructure",
+      "weight": 1,
+      "type": "sponsor_to_victim"
+    },
+    {
+      "source": "Ukraine",
+      "target": "Ukrainian IT Army",
+      "weight": 9,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Ukrainian IT Army",
+      "target": "Aerospace",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ukrainian IT Army",
+      "target": "Defense",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ukrainian IT Army",
+      "target": "Energy",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ukrainian IT Army",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ukrainian IT Army",
+      "target": "Manufacturing",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ukrainian IT Army",
+      "target": "Media",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ukrainian IT Army",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ukrainian IT Army",
+      "target": "Technology",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Ukrainian IT Army",
+      "target": "Transportation",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "United Arab Emirates",
+      "target": "Believed to be the work of the United Arab Emirates government",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "United States",
+      "target": "National Security Agency, Tailored Access Operations",
+      "weight": 1,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Unknown",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Vicious Panda",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Vietnam",
+      "target": "Ocean Lotus",
+      "weight": 3,
+      "type": "sponsor_to_actor"
+    },
+    {
+      "source": "Volt Typhoon",
+      "target": "Infrastructure",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Volt Typhoon",
+      "target": "Military",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "WInnti Umbrella",
+      "target": "Aviation",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "WInnti Umbrella",
+      "target": "Education",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "WInnti Umbrella",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "WInnti Umbrella",
+      "target": "Media",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "WInnti Umbrella",
+      "target": "Technology",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Wicked Panda",
+      "target": "Pharmaceutical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Winnti Umbrella",
+      "target": "Government",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Winnti Umbrella",
+      "target": "Manufacturing",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Winnti Umbrella",
+      "target": "Technology",
+      "weight": 2,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Winnti Umbrella",
+      "target": "Transportation",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Winnti Umbrella, Grayfly",
+      "target": "Media",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Zinc",
+      "target": "Pharmaceutical",
+      "weight": 1,
+      "type": "actor_to_victim"
+    },
+    {
+      "source": "Zinc",
+      "target": "Research",
+      "weight": 1,
+      "type": "actor_to_victim"
+    }
+  ]
+}

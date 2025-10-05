@@ -1,0 +1,2452 @@
+{
+  "APT 10": {
+    "total_incidents": 8,
+    "targets": {
+      "Financial": 1,
+      "Government": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "China": 4
+    }
+  },
+  "Financial": {
+    "total_incidents": 10,
+    "targets": {},
+    "sources": {
+      "APT 10": 1,
+      "Antlion": 1,
+      "Believed to be affiliated with the Russian government. Also known as From Russia With Love (FRwL).": 1,
+      "Believed to be the work of the Chinese government": 1,
+      "China": 1,
+      "Gallium": 1,
+      "Hidden Cobra": 1,
+      "Lazarus Group": 2,
+      "Ukraine": 1
+    }
+  },
+  "Government": {
+    "total_incidents": 158,
+    "targets": {},
+    "sources": {
+      "APT 10": 1,
+      "APT 18": 1,
+      "APT 20": 1,
+      "APT 28": 8,
+      "APT 31, Hurricane Panda": 1,
+      "APT 31, Judgement Panda": 1,
+      "APT 33": 1,
+      "APT 34": 2,
+      "APT 36": 7,
+      "APT 40": 1,
+      "APT 41": 2,
+      "APT 5": 1,
+      "Allosh, Syrian Government": 1,
+      "Also known as Charming Kitten, APT 35, Newscaster, Ajax Security Team, Phosphorus, Group 83, TA453, and Cobalt Illusion. Possibly linked to Rocket Kitten": 1,
+      "Also known as PLA Unit 69010.": 1,
+      "Also known as Parasite": 1,
+      "Also known as Sharp Dragon, believed to be affiliated with the Chinese government": 1,
+      "Belarus, Ghostwriter.": 1,
+      "Believed to be affiliated with the Chinese government": 1,
+      "Believed to be affiliated with the Indian government.": 1,
+      "Believed to be the work of China's government": 1,
+      "Believed to be the work of El Salvador's government.": 1,
+      "Believed to be the work of Hamas.": 1,
+      "Believed to be the work of Kimusky, also known as Thallium and Smoke Screen.": 1,
+      "Believed to be the work of Palestine's government": 1,
+      "Believed to be the work of the Chinese government": 2,
+      "Believed to be the work of the Chinese government.": 4,
+      "Believed to be the work of the Iranian government": 2,
+      "Believed to be the work of the Spanish government": 1,
+      "Believed to be the work of the United Arab Emirates government": 1,
+      "Believed to be the work of the government of Iran.": 1,
+      "Believed to be the work of the government of the Russian Federation.": 1,
+      "BlackTech": 1,
+      "Calisto": 1,
+      "Chafer": 1,
+      "Charming Kitten": 3,
+      "China": 8,
+      "Confucius": 1,
+      "Emissary Panda": 4,
+      "Fancy Bear, APT 28": 1,
+      "Fox Kitten": 1,
+      "Gallium": 2,
+      "Gamaredon": 9,
+      "Ghostwriter": 1,
+      "Golden Falcon": 1,
+      "Government of China": 1,
+      "Government of Turkey": 1,
+      "Guangdong State Security Department (GSSD) of China\u2019s Ministry of State Security (MSS)": 1,
+      "Hafnium": 1,
+      "HoneyMyte, Mustang Panda, Bronze President": 1,
+      "Iran (Islamic Republic of)": 1,
+      "Iran, APT 35": 1,
+      "Iranian Revolutionary Guard": 1,
+      "Kazakhstan": 1,
+      "KilllSomeOne": 1,
+      "Kimsuky": 3,
+      "Konni Group": 1,
+      "Lazarus Group": 1,
+      "Mirage": 1,
+      "MuddyWater": 4,
+      "Mustang Panda": 9,
+      "Nodaria": 3,
+      "Ocean Lotus": 2,
+      "PLA Unit 69010, RedFoxTrot": 1,
+      "Pakistan": 1,
+      "Patchwork": 1,
+      "Phosphorus": 1,
+      "Pioneer Kitten": 1,
+      "Pirate Panda": 1,
+      "Possibly linked to Sandworm.": 1,
+      "Rancor": 1,
+      "Red Menshen": 1,
+      "RedAlpha": 1,
+      "Russian Federation": 2,
+      "Russian government": 1,
+      "Sandworm": 5,
+      "Sharp Panda": 1,
+      "Siamesekitten, OilRig": 1,
+      "SideWinder": 2,
+      "Static Kitten": 1,
+      "TA428, Wekby, Dynamite Panda": 1,
+      "TAG-22, Winnti Umbrella": 1,
+      "The Dukes": 1,
+      "Thrip": 1,
+      "Tick": 1,
+      "Tonto Team": 1,
+      "Turla": 2,
+      "UNC1151": 1,
+      "UNC215": 1,
+      "Ukrainian IT Army": 1,
+      "Unknown": 1,
+      "Vicious Panda": 1,
+      "WInnti Umbrella": 1,
+      "Winnti Umbrella": 1
+    }
+  },
+  "Telecom": {
+    "total_incidents": 37,
+    "targets": {},
+    "sources": {
+      "APT 10": 1,
+      "APT 28": 1,
+      "APT 40": 1,
+      "Also known as PLA Unit 69010.": 1,
+      "Believed to be the work of Russia's government": 1,
+      "Believed to be the work of the Chinese government": 1,
+      "BlackTech": 1,
+      "Calypso": 1,
+      "China": 3,
+      "Emissary Panda": 1,
+      "Gallium": 4,
+      "Goblin Panda": 1,
+      "Greenbug": 1,
+      "Hafnium": 1,
+      "Iran (Islamic Republic of)": 2,
+      "Lazarus Group": 1,
+      "MalKamak": 1,
+      "Mirage": 1,
+      "MuddyWater": 4,
+      "Mustang Panda": 1,
+      "Naikon, APT 30, Deadringer": 1,
+      "PLA Unit 69010, RedFoxTrot": 1,
+      "Red Menshen": 1,
+      "RedFoxTrot": 1,
+      "Sandworm": 2,
+      "Siamesekitten, OilRig": 1,
+      "Soft Cell, GALLIUM, Deadringer": 1
+    }
+  },
+  "Telecommunications": {
+    "total_incidents": 22,
+    "targets": {},
+    "sources": {
+      "APT 10": 1,
+      "APT 28": 1,
+      "APT 40": 1,
+      "Also known as PLA Unit 69010.": 1,
+      "Believed to be the work of the Chinese government": 1,
+      "China": 1,
+      "Emissary Panda": 1,
+      "Gallium": 3,
+      "Goblin Panda": 1,
+      "Lazarus Group": 1,
+      "Mirage": 1,
+      "MuddyWater": 3,
+      "Mustang Panda": 1,
+      "PLA Unit 69010, RedFoxTrot": 1,
+      "Red Menshen": 1,
+      "Sandworm": 2,
+      "Siamesekitten, OilRig": 1
+    }
+  },
+  "APT 18": {
+    "total_incidents": 8,
+    "targets": {
+      "Government": 1,
+      "Industrial": 1,
+      "Military": 1,
+      "Research": 1
+    },
+    "sources": {
+      "China": 4
+    }
+  },
+  "Industrial": {
+    "total_incidents": 5,
+    "targets": {},
+    "sources": {
+      "APT 18": 1,
+      "APT 33": 1,
+      "Charming Kitten": 1,
+      "Suspected to be the work of Chinese military hackers.": 1,
+      "Taiwan, United States": 1
+    }
+  },
+  "Military": {
+    "total_incidents": 26,
+    "targets": {},
+    "sources": {
+      "APT 18": 1,
+      "APT 28": 1,
+      "APT 36": 3,
+      "APT 36, Mythic Leopard": 1,
+      "Also known as PLA Unit 69010.": 1,
+      "Believed to be affiliated with the Indian government.": 1,
+      "Believed to be affiliated with the Russian government": 1,
+      "Believed to be the work of the Pakistani government": 1,
+      "Confucius": 2,
+      "Emissary Panda": 1,
+      "Gamaredon": 1,
+      "Government of China": 1,
+      "India": 1,
+      "Kimsuky": 1,
+      "Lazarus Group": 1,
+      "PLA Unit 69010, RedFoxTrot": 1,
+      "Patchwork": 1,
+      "Taiwan, United States": 1,
+      "Turla": 2,
+      "UNC1151": 1,
+      "Ukrainian IT Army": 1,
+      "Volt Typhoon": 1
+    }
+  },
+  "Research": {
+    "total_incidents": 38,
+    "targets": {},
+    "sources": {
+      "APT 18": 1,
+      "APT 28": 1,
+      "APT 36": 1,
+      "Also known as PLA Unit 69010.": 1,
+      "Believed to be the work of the Chinese government": 2,
+      "Believed to be the work of the Iranian government": 1,
+      "Calisto": 1,
+      "Cerium": 1,
+      "Charming Kitten": 2,
+      "China": 6,
+      "Chinese government": 1,
+      "Hafnium": 1,
+      "Iran, APT 35": 1,
+      "Kimsuky": 6,
+      "Korea (Democratic People's Republic of)": 2,
+      "Lazarus Group": 2,
+      "PLA Unit 69010, RedFoxTrot": 1,
+      "Patchwork": 1,
+      "TA453, Charming Kitten": 1,
+      "TAG-22, Winnti Umbrella": 1,
+      "Taiwan, United States": 1,
+      "The Lazarus Group": 1,
+      "Tick": 1,
+      "Zinc": 1
+    }
+  },
+  "APT 20": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "APT 28": {
+    "total_incidents": 36,
+    "targets": {
+      "Aerospace": 1,
+      "Defense": 1,
+      "Energy": 1,
+      "Government": 8,
+      "Infrastructure": 1,
+      "Media": 1,
+      "Military": 1,
+      "Pharmaceutical": 1,
+      "Research": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "Russian Federation": 18
+    }
+  },
+  "Aerospace": {
+    "total_incidents": 15,
+    "targets": {},
+    "sources": {
+      "APT 28": 1,
+      "APT 36": 1,
+      "Also known as APT 2, PLA Unit 61486, and TG-6952": 1,
+      "Also known as PLA Unit 69010.": 1,
+      "Believed to be Lazarus Group": 1,
+      "Believed to be associated with the North Korean government": 1,
+      "China's Jiangsu Ministry of State Security": 1,
+      "Iran (Islamic Republic of)": 1,
+      "Kimsuky": 2,
+      "MalKamak": 1,
+      "Moonstone Sleet": 1,
+      "PLA Unit 69010, RedFoxTrot": 1,
+      "Taiwan, United States": 1,
+      "Ukrainian IT Army": 1
+    }
+  },
+  "Defense": {
+    "total_incidents": 52,
+    "targets": {},
+    "sources": {
+      "APT 28": 1,
+      "APT 33": 1,
+      "APT 36": 3,
+      "APT-C-23": 2,
+      "Also known as APT 43": 1,
+      "Also known as AridViper and\u00a0Desert Falcon.": 1,
+      "Also known as Charming Kitten, APT 35, Newscaster, Ajax Security Team, Phosphorus, Group 83, TA453, and Cobalt Illusion. Possibly linked to Rocket Kitten": 1,
+      "Believed to be Lazarus Group": 1,
+      "Believed to be associated with the North Korean government": 1,
+      "Believed to be responsible for Dark Seoul, Ten Days of Rain, the Sony Pictures Entertainment attack,\u00a0the SWIFT-related bank heists,\u00a0WannaCry, and\u00a0Operation GhostSecret. Believed to use the same tools as Covellite.\u00a0Known to the U.S. government as Hidden Cobra.\u00a0Also known as BlueNoroff and Temp.Hermit.": 1,
+      "Believed to be the work of Iran's government.": 1,
+      "Believed to be the work of Russia's government": 2,
+      "Believed to be the work of Saffron Rose": 1,
+      "Believed\u00a0to be partially the work of PLA Unit 61398.": 1,
+      "BlackTech": 1,
+      "Charming Kitten": 1,
+      "China": 8,
+      "Gallium": 1,
+      "Gamaredon": 1,
+      "Ghostwriter": 1,
+      "Government of China": 1,
+      "Hafnium": 1,
+      "Kimsuky": 3,
+      "Lazarus Group": 7,
+      "MysterySnail": 1,
+      "Patchwork": 1,
+      "Sandworm": 2,
+      "Sneaky Panda is among some of the actors suspected to be behind this incident.": 1,
+      "Taiwan, United States": 1,
+      "Tortoiseshell, \u00a0Charming Kitten": 1,
+      "Turla": 1,
+      "Ukrainian IT Army": 1
+    }
+  },
+  "Energy": {
+    "total_incidents": 14,
+    "targets": {},
+    "sources": {
+      "APT 28": 1,
+      "Believed\u00a0to be partially the work of PLA Unit 61398.": 1,
+      "China": 2,
+      "Confucius": 1,
+      "Kimsuky": 4,
+      "Lazarus Group": 1,
+      "MuddyWater": 1,
+      "Pakistan": 1,
+      "Siamesekitten, OilRig": 1,
+      "Ukrainian IT Army": 1
+    }
+  },
+  "Infrastructure": {
+    "total_incidents": 12,
+    "targets": {},
+    "sources": {
+      "APT 28": 1,
+      "Affiliated with the Chinese government.": 1,
+      "Australian Signals Directorate": 1,
+      "Believed to be the work of the Chinese government": 1,
+      "Believed to be the work of the Islamic Republic of Iran's government": 1,
+      "Crouching Yeti": 1,
+      "Emissary Panda": 1,
+      "Gamaredon": 1,
+      "Sandworm": 2,
+      "Ukraine": 1,
+      "Volt Typhoon": 1
+    }
+  },
+  "Media": {
+    "total_incidents": 13,
+    "targets": {},
+    "sources": {
+      "APT 28": 1,
+      "APT 41": 1,
+      "Allosh, Syrian Government": 1,
+      "Believed to be the work of China's government": 1,
+      "BlackTech": 1,
+      "Goblin Panda": 1,
+      "Lazarus Group": 1,
+      "Sandworm": 2,
+      "TAG-28": 1,
+      "Ukrainian IT Army": 1,
+      "WInnti Umbrella": 1,
+      "Winnti Umbrella, Grayfly": 1
+    }
+  },
+  "Pharmaceutical": {
+    "total_incidents": 10,
+    "targets": {},
+    "sources": {
+      "APT 28": 1,
+      "APT 33": 1,
+      "Cerium": 1,
+      "Emissary Panda": 1,
+      "Iran, APT 35": 1,
+      "Kimsuky": 1,
+      "Korea (Democratic People's Republic of)": 2,
+      "Wicked Panda": 1,
+      "Zinc": 1
+    }
+  },
+  "APT 31, Hurricane Panda": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "APT 31, Judgement Panda": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "APT 33": {
+    "total_incidents": 8,
+    "targets": {
+      "Defense": 1,
+      "Government": 1,
+      "Industrial": 1,
+      "Pharmaceutical": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 4
+    }
+  },
+  "APT 34": {
+    "total_incidents": 6,
+    "targets": {
+      "Government": 2,
+      "Oil": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 3
+    }
+  },
+  "Oil": {
+    "total_incidents": 4,
+    "targets": {},
+    "sources": {
+      "APT 34": 1,
+      "APT 40": 1,
+      "China": 1,
+      "Comment Crew": 1
+    }
+  },
+  "APT 36": {
+    "total_incidents": 34,
+    "targets": {
+      "Aerospace": 1,
+      "Civil society": 1,
+      "Defense": 3,
+      "Education": 1,
+      "Government": 7,
+      "Military": 3,
+      "Research": 1
+    },
+    "sources": {
+      "Pakistan": 17
+    }
+  },
+  "Civil society": {
+    "total_incidents": 6,
+    "targets": {},
+    "sources": {
+      "APT 36": 1,
+      "China": 1,
+      "Emissary Panda": 1,
+      "Gamaredon": 1,
+      "The Dukes": 1,
+      "Tonto Team": 1
+    }
+  },
+  "Education": {
+    "total_incidents": 9,
+    "targets": {},
+    "sources": {
+      "APT 36": 1,
+      "Agrius": 1,
+      "Believed to be the work of the Chinese government": 1,
+      "China": 2,
+      "Iran (Islamic Republic of)": 1,
+      "Kimsuky": 1,
+      "Tonto Team": 1,
+      "WInnti Umbrella": 1
+    }
+  },
+  "APT 36, Mythic Leopard": {
+    "total_incidents": 2,
+    "targets": {
+      "Military": 1
+    },
+    "sources": {
+      "Pakistan": 1
+    }
+  },
+  "APT 40": {
+    "total_incidents": 10,
+    "targets": {
+      "Gas": 1,
+      "Government": 1,
+      "Oil": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "China": 5
+    }
+  },
+  "Gas": {
+    "total_incidents": 3,
+    "targets": {},
+    "sources": {
+      "APT 40": 1,
+      "Comment Crew": 1,
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "APT 41": {
+    "total_incidents": 10,
+    "targets": {
+      "Government": 2,
+      "Manufacturing": 1,
+      "Media": 1,
+      "Technology": 1
+    },
+    "sources": {
+      "China": 5
+    }
+  },
+  "Manufacturing": {
+    "total_incidents": 9,
+    "targets": {},
+    "sources": {
+      "APT 41": 1,
+      "Aggah, Gorgon Group": 1,
+      "Believed to be the work of the Chinese government": 1,
+      "Chinese government.": 1,
+      "Emissary Panda": 1,
+      "Lazarus Group": 1,
+      "Ukrainian IT Army": 1,
+      "Winnti Umbrella": 2
+    }
+  },
+  "Technology": {
+    "total_incidents": 18,
+    "targets": {},
+    "sources": {
+      "APT 41": 1,
+      "Agrius": 1,
+      "Believed to be the work of China's government.": 1,
+      "Believed to be the work of Leviathan.": 1,
+      "Believed to be the work of the Chinese government": 1,
+      "China's Tianjin State Security Bureau": 1,
+      "Emissary Panda": 1,
+      "Goblin Panda": 1,
+      "Lazarus Group": 3,
+      "MuddyWater": 2,
+      "The Dukes": 1,
+      "Ukrainian IT Army": 1,
+      "WInnti Umbrella": 1,
+      "Winnti Umbrella": 2
+    }
+  },
+  "APT 5": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "APT-C-23": {
+    "total_incidents": 4,
+    "targets": {
+      "Defense": 2
+    },
+    "sources": {
+      "Palestine, State of": 2
+    }
+  },
+  "Affiliated with the Chinese government.": {
+    "total_incidents": 2,
+    "targets": {
+      "Infrastructure": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Aggah, Gorgon Group": {
+    "total_incidents": 2,
+    "targets": {
+      "Manufacturing": 1
+    },
+    "sources": {
+      "Pakistan": 1
+    }
+  },
+  "Agrius": {
+    "total_incidents": 4,
+    "targets": {
+      "Education": 1,
+      "Technology": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 2
+    }
+  },
+  "Allosh, Syrian Government": {
+    "total_incidents": 4,
+    "targets": {
+      "Government": 1,
+      "Media": 1
+    },
+    "sources": {
+      "Syrian Arab Republic": 2
+    }
+  },
+  "Also known as APT 2, PLA Unit 61486, and TG-6952": {
+    "total_incidents": 2,
+    "targets": {
+      "Aerospace": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Also known as APT 43": {
+    "total_incidents": 2,
+    "targets": {
+      "Defense": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 1
+    }
+  },
+  "Also known as AridViper and\u00a0Desert Falcon.": {
+    "total_incidents": 2,
+    "targets": {
+      "Defense": 1
+    },
+    "sources": {
+      "Palestine, State of": 1
+    }
+  },
+  "Also known as Charming Kitten, APT 35, Newscaster, Ajax Security Team, Phosphorus, Group 83, TA453, and Cobalt Illusion. Possibly linked to Rocket Kitten": {
+    "total_incidents": 4,
+    "targets": {
+      "Defense": 1,
+      "Government": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 2
+    }
+  },
+  "Also known as Flying Kitten, Sayad, Ajax Security Team, and Group 26": {
+    "total_incidents": 2,
+    "targets": {
+      "Internet": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Internet": {
+    "total_incidents": 6,
+    "targets": {},
+    "sources": {
+      "Also known as Flying Kitten, Sayad, Ajax Security Team, and Group 26": 1,
+      "Believed to be the work of Russia's government": 1,
+      "Hafnium": 1,
+      "Lazarus Group": 1,
+      "Mustang Panda": 1,
+      "Ocean Lotus": 1
+    }
+  },
+  "Also known as PLA Unit 69010.": {
+    "total_incidents": 12,
+    "targets": {
+      "Aerospace": 1,
+      "Government": 1,
+      "Military": 1,
+      "Research": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "China": 6
+    }
+  },
+  "Also known as Parasite": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Also known as Sharp Dragon, believed to be affiliated with the Chinese government": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Also known as Thallium, Smoke Screen, Emerald Sleet, TA-406, Sharptongue, Black Banshee, and APT43.": {
+    "total_incidents": 2,
+    "targets": {
+      "University": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 1
+    }
+  },
+  "University": {
+    "total_incidents": 11,
+    "targets": {},
+    "sources": {
+      "Also known as Thallium, Smoke Screen, Emerald Sleet, TA-406, Sharptongue, Black Banshee, and APT43.": 1,
+      "Believed to be the work of Kimusky, also known as Thallium and Smoke Screen.": 1,
+      "Believed to be the work of Leviathan.": 1,
+      "Believed to be the work of the Iranian government": 1,
+      "China": 1,
+      "Ghostwriter": 1,
+      "Kimsuky": 1,
+      "Lazarus Group": 1,
+      "National Security Agency, Tailored Access Operations": 1,
+      "Patchwork": 1,
+      "Russia": 1
+    }
+  },
+  "Also known as\u00a0Lyceum. The group has also been connected to OilRig.": {
+    "total_incidents": 2,
+    "targets": {
+      "Software": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Software": {
+    "total_incidents": 7,
+    "targets": {},
+    "sources": {
+      "Also known as\u00a0Lyceum. The group has also been connected to OilRig.": 1,
+      "Lazarus Group": 3,
+      "Sandworm": 1,
+      "Siamesekitten, Lyceum": 1,
+      "The Dukes": 1
+    }
+  },
+  "Antlion": {
+    "total_incidents": 2,
+    "targets": {
+      "Financial": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Australia": {
+    "total_incidents": 1,
+    "targets": {
+      "Australian Signals Directorate": 1
+    },
+    "sources": {}
+  },
+  "Australian Signals Directorate": {
+    "total_incidents": 2,
+    "targets": {
+      "Infrastructure": 1
+    },
+    "sources": {
+      "Australia": 1
+    }
+  },
+  "Belarus": {
+    "total_incidents": 2,
+    "targets": {
+      "Belarus, Ghostwriter.": 1,
+      "UNC1151": 1
+    },
+    "sources": {}
+  },
+  "Belarus, Ghostwriter.": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Belarus": 1
+    }
+  },
+  "UNC1151": {
+    "total_incidents": 4,
+    "targets": {
+      "Government": 1,
+      "Military": 1
+    },
+    "sources": {
+      "Belarus": 1,
+      "Belarus, Russian Federation": 1
+    }
+  },
+  "Belarus, Russian Federation": {
+    "total_incidents": 1,
+    "targets": {
+      "UNC1151": 1
+    },
+    "sources": {}
+  },
+  "Believed to be Lazarus Group": {
+    "total_incidents": 4,
+    "targets": {
+      "Aerospace": 1,
+      "Defense": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 2
+    }
+  },
+  "Believed to be affiliated with the Chinese government": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Believed to be affiliated with the Indian government.": {
+    "total_incidents": 4,
+    "targets": {
+      "Government": 1,
+      "Military": 1
+    },
+    "sources": {
+      "India": 2
+    }
+  },
+  "Believed to be affiliated with the Russian government": {
+    "total_incidents": 2,
+    "targets": {
+      "Military": 1
+    },
+    "sources": {
+      "Russian Federation": 1
+    }
+  },
+  "Believed to be affiliated with the Russian government. Also known as From Russia With Love (FRwL).": {
+    "total_incidents": 4,
+    "targets": {
+      "Financial": 1,
+      "Insurance": 1
+    },
+    "sources": {
+      "Russian Federation": 2
+    }
+  },
+  "Insurance": {
+    "total_incidents": 1,
+    "targets": {},
+    "sources": {
+      "Believed to be affiliated with the Russian government. Also known as From Russia With Love (FRwL).": 1
+    }
+  },
+  "Believed to be associated with the North Korean government": {
+    "total_incidents": 4,
+    "targets": {
+      "Aerospace": 1,
+      "Defense": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 2
+    }
+  },
+  "Believed to be responsible for Dark Seoul, Ten Days of Rain, the Sony Pictures Entertainment attack,\u00a0the SWIFT-related bank heists,\u00a0WannaCry, and\u00a0Operation GhostSecret. Believed to use the same tools as Covellite.\u00a0Known to the U.S. government as Hidden Cobra.\u00a0Also known as BlueNoroff and Temp.Hermit.": {
+    "total_incidents": 2,
+    "targets": {
+      "Defense": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 1
+    }
+  },
+  "Believed to be the work of China's government": {
+    "total_incidents": 4,
+    "targets": {
+      "Government": 1,
+      "Media": 1
+    },
+    "sources": {
+      "China": 2
+    }
+  },
+  "Believed to be the work of China's government.": {
+    "total_incidents": 2,
+    "targets": {
+      "Technology": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Believed to be the work of El Salvador's government.": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "El Salvador": 1
+    }
+  },
+  "Believed to be the work of Hamas.": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Palestine, State of": 1
+    }
+  },
+  "Believed to be the work of Iran's government.": {
+    "total_incidents": 2,
+    "targets": {
+      "Defense": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Believed to be the work of Kimusky, also known as Thallium and Smoke Screen.": {
+    "total_incidents": 4,
+    "targets": {
+      "Government": 1,
+      "University": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 2
+    }
+  },
+  "Believed to be the work of Leviathan.": {
+    "total_incidents": 4,
+    "targets": {
+      "Technology": 1,
+      "University": 1
+    },
+    "sources": {
+      "China": 2
+    }
+  },
+  "Believed to be the work of Palestine's government": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Palestine, State of": 1
+    }
+  },
+  "Believed to be the work of Russia's government": {
+    "total_incidents": 8,
+    "targets": {
+      "Defense": 2,
+      "Internet": 1,
+      "Telecom": 1
+    },
+    "sources": {
+      "Russian Federation": 4
+    }
+  },
+  "Believed to be the work of Saffron Rose": {
+    "total_incidents": 2,
+    "targets": {
+      "Defense": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Believed to be the work of the Chinese government": {
+    "total_incidents": 24,
+    "targets": {
+      "Academic": 1,
+      "Education": 1,
+      "Financial": 1,
+      "Government": 2,
+      "Infrastructure": 1,
+      "Manufacturing": 1,
+      "Research": 2,
+      "Technology": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "China": 12
+    }
+  },
+  "Academic": {
+    "total_incidents": 10,
+    "targets": {},
+    "sources": {
+      "Believed to be the work of the Chinese government": 1,
+      "Calisto": 1,
+      "Charming Kitten": 1,
+      "China": 1,
+      "Government of Egypt": 1,
+      "Government of Morocco": 1,
+      "India": 1,
+      "Kimsuky": 1,
+      "TAG-22, Winnti Umbrella": 1,
+      "Tick": 1
+    }
+  },
+  "Believed to be the work of the Chinese government.": {
+    "total_incidents": 8,
+    "targets": {
+      "Government": 4
+    },
+    "sources": {
+      "China": 4
+    }
+  },
+  "Believed to be the work of the Iranian government": {
+    "total_incidents": 8,
+    "targets": {
+      "Government": 2,
+      "Research": 1,
+      "University": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 4
+    }
+  },
+  "Believed to be the work of the Islamic Republic of Iran's government": {
+    "total_incidents": 2,
+    "targets": {
+      "Infrastructure": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Believed to be the work of the Pakistani government": {
+    "total_incidents": 2,
+    "targets": {
+      "Military": 1
+    },
+    "sources": {
+      "Pakistan": 1
+    }
+  },
+  "Believed to be the work of the Russian government": {
+    "total_incidents": 2,
+    "targets": {
+      "Broadcasting": 1
+    },
+    "sources": {
+      "Russian Federation": 1
+    }
+  },
+  "Broadcasting": {
+    "total_incidents": 1,
+    "targets": {},
+    "sources": {
+      "Believed to be the work of the Russian government": 1
+    }
+  },
+  "Believed to be the work of the Spanish government": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Spain": 1
+    }
+  },
+  "Believed to be the work of the United Arab Emirates government": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "United Arab Emirates": 1
+    }
+  },
+  "Believed to be the work of the government of Iran.": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Believed to be the work of the government of the Russian Federation.": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Russian Federation": 1
+    }
+  },
+  "Believed to have been partially the work of Chrysene": {
+    "total_incidents": 1,
+    "targets": {
+      "Aviation": 1
+    },
+    "sources": {}
+  },
+  "Aviation": {
+    "total_incidents": 6,
+    "targets": {},
+    "sources": {
+      "Believed to have been partially the work of Chrysene": 1,
+      "Iran (Islamic Republic of)": 1,
+      "MuddyWater": 1,
+      "Sandworm": 2,
+      "WInnti Umbrella": 1
+    }
+  },
+  "Believed\u00a0to be partially the work of PLA Unit 61398.": {
+    "total_incidents": 4,
+    "targets": {
+      "Defense": 1,
+      "Energy": 1
+    },
+    "sources": {
+      "China": 2
+    }
+  },
+  "BlackTech": {
+    "total_incidents": 8,
+    "targets": {
+      "Defense": 1,
+      "Government": 1,
+      "Media": 1,
+      "Telecom": 1
+    },
+    "sources": {
+      "China": 1,
+      "Japan": 3
+    }
+  },
+  "Calisto": {
+    "total_incidents": 6,
+    "targets": {
+      "Academic": 1,
+      "Government": 1,
+      "Research": 1
+    },
+    "sources": {
+      "Russian Federation": 3
+    }
+  },
+  "Calypso": {
+    "total_incidents": 2,
+    "targets": {
+      "Telecom": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Cerium": {
+    "total_incidents": 4,
+    "targets": {
+      "Pharmaceutical": 1,
+      "Research": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 2
+    }
+  },
+  "Chafer": {
+    "total_incidents": 4,
+    "targets": {
+      "Government": 1,
+      "Transportation": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 2
+    }
+  },
+  "Transportation": {
+    "total_incidents": 6,
+    "targets": {},
+    "sources": {
+      "Chafer": 1,
+      "China": 1,
+      "Sandworm": 2,
+      "Ukrainian IT Army": 1,
+      "Winnti Umbrella": 1
+    }
+  },
+  "Charming Kitten": {
+    "total_incidents": 20,
+    "targets": {
+      "Academic": 1,
+      "Defense": 1,
+      "Government": 3,
+      "Industrial": 1,
+      "Medical": 2,
+      "Research": 2
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 10
+    }
+  },
+  "Medical": {
+    "total_incidents": 7,
+    "targets": {},
+    "sources": {
+      "Charming Kitten": 2,
+      "China": 1,
+      "Hafnium": 1,
+      "Kimsuky": 1,
+      "Lazarus Group": 1,
+      "The Dukes": 1
+    }
+  },
+  "China": {
+    "total_incidents": 200,
+    "targets": {
+      "APT 10": 4,
+      "APT 18": 4,
+      "APT 20": 1,
+      "APT 31, Hurricane Panda": 1,
+      "APT 31, Judgement Panda": 1,
+      "APT 40": 5,
+      "APT 41": 5,
+      "APT 5": 1,
+      "Academic": 1,
+      "Affiliated with the Chinese government.": 1,
+      "Also known as APT 2, PLA Unit 61486, and TG-6952": 1,
+      "Also known as PLA Unit 69010.": 6,
+      "Also known as Sharp Dragon, believed to be affiliated with the Chinese government": 1,
+      "Antlion": 1,
+      "Believed to be affiliated with the Chinese government": 1,
+      "Believed to be the work of China's government": 2,
+      "Believed to be the work of China's government.": 1,
+      "Believed to be the work of Leviathan.": 2,
+      "Believed to be the work of the Chinese government": 12,
+      "Believed to be the work of the Chinese government.": 4,
+      "Believed\u00a0to be partially the work of PLA Unit 61398.": 2,
+      "BlackTech": 1,
+      "Calypso": 1,
+      "China's Jiangsu Ministry of State Security": 1,
+      "China's Tianjin State Security Bureau": 1,
+      "Chinese government": 1,
+      "Chinese government.": 1,
+      "Civil society": 1,
+      "Comment Crew": 2,
+      "Defense": 8,
+      "Education": 2,
+      "Emissary Panda": 12,
+      "Energy": 2,
+      "Financial": 1,
+      "Gallium": 11,
+      "Goblin Panda": 4,
+      "Government": 8,
+      "Government of China": 3,
+      "Guangdong State Security Department (GSSD) of China\u2019s Ministry of State Security (MSS)": 1,
+      "Hafnium": 6,
+      "HoneyMyte, Mustang Panda, Bronze President": 1,
+      "KilllSomeOne": 1,
+      "Medical": 1,
+      "Mirage": 3,
+      "Mustang Panda": 10,
+      "MysterySnail": 1,
+      "Naikon, APT 30, Deadringer": 1,
+      "Oil": 1,
+      "PLA Unit 69010, RedFoxTrot": 6,
+      "Pirate Panda": 1,
+      "Rancor": 1,
+      "Red Menshen": 3,
+      "RedAlpha": 1,
+      "RedFoxTrot": 1,
+      "Research": 6,
+      "Sharp Panda": 1,
+      "Sneaky Panda is among some of the actors suspected to be behind this incident.": 1,
+      "Soft Cell, GALLIUM, Deadringer": 1,
+      "Suspected to be the work of Chinese military hackers.": 1,
+      "TA428, Wekby, Dynamite Panda": 1,
+      "TAG-22, Winnti Umbrella": 3,
+      "TAG-28": 1,
+      "Telecom": 3,
+      "Telecommunications": 1,
+      "Thrip": 1,
+      "Tick": 3,
+      "Tonto Team": 2,
+      "Transportation": 1,
+      "UNC215": 1,
+      "University": 1,
+      "Vicious Panda": 1,
+      "Volt Typhoon": 2,
+      "WInnti Umbrella": 5,
+      "Wicked Panda": 1,
+      "Winnti Umbrella": 6,
+      "Winnti Umbrella, Grayfly": 1
+    },
+    "sources": {}
+  },
+  "China's Jiangsu Ministry of State Security": {
+    "total_incidents": 2,
+    "targets": {
+      "Aerospace": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "China's Tianjin State Security Bureau": {
+    "total_incidents": 2,
+    "targets": {
+      "Technology": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Chinese government": {
+    "total_incidents": 2,
+    "targets": {
+      "Research": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Chinese government.": {
+    "total_incidents": 2,
+    "targets": {
+      "Manufacturing": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Comment Crew": {
+    "total_incidents": 4,
+    "targets": {
+      "Gas": 1,
+      "Oil": 1
+    },
+    "sources": {
+      "China": 2
+    }
+  },
+  "Emissary Panda": {
+    "total_incidents": 24,
+    "targets": {
+      "Civil society": 1,
+      "Government": 4,
+      "Infrastructure": 1,
+      "Manufacturing": 1,
+      "Military": 1,
+      "Pharmaceutical": 1,
+      "Technology": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "China": 12
+    }
+  },
+  "Gallium": {
+    "total_incidents": 22,
+    "targets": {
+      "Defense": 1,
+      "Financial": 1,
+      "Government": 2,
+      "Telecom": 4,
+      "Telecommunications": 3
+    },
+    "sources": {
+      "China": 11
+    }
+  },
+  "Goblin Panda": {
+    "total_incidents": 8,
+    "targets": {
+      "Media": 1,
+      "Technology": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "China": 4
+    }
+  },
+  "Government of China": {
+    "total_incidents": 6,
+    "targets": {
+      "Defense": 1,
+      "Government": 1,
+      "Military": 1
+    },
+    "sources": {
+      "China": 3
+    }
+  },
+  "Guangdong State Security Department (GSSD) of China\u2019s Ministry of State Security (MSS)": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Hafnium": {
+    "total_incidents": 12,
+    "targets": {
+      "Defense": 1,
+      "Government": 1,
+      "Internet": 1,
+      "Medical": 1,
+      "Research": 1,
+      "Telecom": 1
+    },
+    "sources": {
+      "China": 6
+    }
+  },
+  "HoneyMyte, Mustang Panda, Bronze President": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "KilllSomeOne": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Mirage": {
+    "total_incidents": 6,
+    "targets": {
+      "Government": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "China": 3
+    }
+  },
+  "Mustang Panda": {
+    "total_incidents": 24,
+    "targets": {
+      "Government": 9,
+      "Internet": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "China": 10,
+      "Myanmar": 1,
+      "Russian Federation": 1
+    }
+  },
+  "MysterySnail": {
+    "total_incidents": 2,
+    "targets": {
+      "Defense": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Naikon, APT 30, Deadringer": {
+    "total_incidents": 2,
+    "targets": {
+      "Telecom": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "PLA Unit 69010, RedFoxTrot": {
+    "total_incidents": 12,
+    "targets": {
+      "Aerospace": 1,
+      "Government": 1,
+      "Military": 1,
+      "Research": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "China": 6
+    }
+  },
+  "Pirate Panda": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Rancor": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Red Menshen": {
+    "total_incidents": 6,
+    "targets": {
+      "Government": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "China": 3
+    }
+  },
+  "RedAlpha": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "RedFoxTrot": {
+    "total_incidents": 2,
+    "targets": {
+      "Telecom": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Sharp Panda": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Sneaky Panda is among some of the actors suspected to be behind this incident.": {
+    "total_incidents": 2,
+    "targets": {
+      "Defense": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Soft Cell, GALLIUM, Deadringer": {
+    "total_incidents": 2,
+    "targets": {
+      "Telecom": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Suspected to be the work of Chinese military hackers.": {
+    "total_incidents": 2,
+    "targets": {
+      "Industrial": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "TA428, Wekby, Dynamite Panda": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "TAG-22, Winnti Umbrella": {
+    "total_incidents": 6,
+    "targets": {
+      "Academic": 1,
+      "Government": 1,
+      "Research": 1
+    },
+    "sources": {
+      "China": 3
+    }
+  },
+  "TAG-28": {
+    "total_incidents": 2,
+    "targets": {
+      "Media": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Thrip": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Tick": {
+    "total_incidents": 6,
+    "targets": {
+      "Academic": 1,
+      "Government": 1,
+      "Research": 1
+    },
+    "sources": {
+      "China": 3
+    }
+  },
+  "Tonto Team": {
+    "total_incidents": 6,
+    "targets": {
+      "Civil society": 1,
+      "Education": 1,
+      "Government": 1
+    },
+    "sources": {
+      "China": 2,
+      "Korea (Democratic People's Republic of)": 1
+    }
+  },
+  "UNC215": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Vicious Panda": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Volt Typhoon": {
+    "total_incidents": 4,
+    "targets": {
+      "Infrastructure": 1,
+      "Military": 1
+    },
+    "sources": {
+      "China": 2
+    }
+  },
+  "WInnti Umbrella": {
+    "total_incidents": 10,
+    "targets": {
+      "Aviation": 1,
+      "Education": 1,
+      "Government": 1,
+      "Media": 1,
+      "Technology": 1
+    },
+    "sources": {
+      "China": 5
+    }
+  },
+  "Wicked Panda": {
+    "total_incidents": 2,
+    "targets": {
+      "Pharmaceutical": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Winnti Umbrella": {
+    "total_incidents": 12,
+    "targets": {
+      "Government": 1,
+      "Manufacturing": 2,
+      "Technology": 2,
+      "Transportation": 1
+    },
+    "sources": {
+      "China": 6
+    }
+  },
+  "Winnti Umbrella, Grayfly": {
+    "total_incidents": 2,
+    "targets": {
+      "Media": 1
+    },
+    "sources": {
+      "China": 1
+    }
+  },
+  "Confucius": {
+    "total_incidents": 8,
+    "targets": {
+      "Energy": 1,
+      "Government": 1,
+      "Military": 2
+    },
+    "sources": {
+      "India": 4
+    }
+  },
+  "Crouching Yeti": {
+    "total_incidents": 2,
+    "targets": {
+      "Infrastructure": 1
+    },
+    "sources": {
+      "Russian Federation": 1
+    }
+  },
+  "Egypt": {
+    "total_incidents": 1,
+    "targets": {
+      "Government of Egypt": 1
+    },
+    "sources": {}
+  },
+  "Government of Egypt": {
+    "total_incidents": 2,
+    "targets": {
+      "Academic": 1
+    },
+    "sources": {
+      "Egypt": 1
+    }
+  },
+  "El Salvador": {
+    "total_incidents": 1,
+    "targets": {
+      "Believed to be the work of El Salvador's government.": 1
+    },
+    "sources": {}
+  },
+  "Fancy Bear, APT 28": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Russian Federation": 1
+    }
+  },
+  "Fox Kitten": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Gamaredon": {
+    "total_incidents": 26,
+    "targets": {
+      "Civil society": 1,
+      "Defense": 1,
+      "Government": 9,
+      "Infrastructure": 1,
+      "Military": 1
+    },
+    "sources": {
+      "Russian Federation": 13
+    }
+  },
+  "Ghostwriter": {
+    "total_incidents": 6,
+    "targets": {
+      "Defense": 1,
+      "Government": 1,
+      "University": 1
+    },
+    "sources": {
+      "Russian Federation": 3
+    }
+  },
+  "Golden Falcon": {
+    "total_incidents": 1,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {}
+  },
+  "Government of Morocco": {
+    "total_incidents": 2,
+    "targets": {
+      "Academic": 1
+    },
+    "sources": {
+      "Morocco": 1
+    }
+  },
+  "Government of Turkey": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Turkey": 1
+    }
+  },
+  "Greenbug": {
+    "total_incidents": 2,
+    "targets": {
+      "Telecom": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Hidden Cobra": {
+    "total_incidents": 2,
+    "targets": {
+      "Financial": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 1
+    }
+  },
+  "India": {
+    "total_incidents": 15,
+    "targets": {
+      "Academic": 1,
+      "Believed to be affiliated with the Indian government.": 2,
+      "Confucius": 4,
+      "Military": 1,
+      "Patchwork": 5,
+      "SideWinder": 2
+    },
+    "sources": {}
+  },
+  "Patchwork": {
+    "total_incidents": 10,
+    "targets": {
+      "Defense": 1,
+      "Government": 1,
+      "Military": 1,
+      "Research": 1,
+      "University": 1
+    },
+    "sources": {
+      "India": 5
+    }
+  },
+  "SideWinder": {
+    "total_incidents": 4,
+    "targets": {
+      "Government": 2
+    },
+    "sources": {
+      "India": 2
+    }
+  },
+  "Iran (Islamic Republic of)": {
+    "total_incidents": 76,
+    "targets": {
+      "APT 33": 4,
+      "APT 34": 3,
+      "Aerospace": 1,
+      "Agrius": 2,
+      "Also known as Charming Kitten, APT 35, Newscaster, Ajax Security Team, Phosphorus, Group 83, TA453, and Cobalt Illusion. Possibly linked to Rocket Kitten": 2,
+      "Also known as Flying Kitten, Sayad, Ajax Security Team, and Group 26": 1,
+      "Also known as Parasite": 1,
+      "Also known as\u00a0Lyceum. The group has also been connected to OilRig.": 1,
+      "Aviation": 1,
+      "Believed to be the work of Iran's government.": 1,
+      "Believed to be the work of Saffron Rose": 1,
+      "Believed to be the work of the Iranian government": 4,
+      "Believed to be the work of the Islamic Republic of Iran's government": 1,
+      "Believed to be the work of the government of Iran.": 1,
+      "Chafer": 2,
+      "Charming Kitten": 10,
+      "Education": 1,
+      "Fox Kitten": 1,
+      "Gas": 1,
+      "Government": 1,
+      "Greenbug": 1,
+      "Iran, APT 35": 3,
+      "Iranian Revolutionary Guard": 1,
+      "Iranian government": 1,
+      "MalKamak": 2,
+      "MuddyWater": 16,
+      "Phosphorus": 1,
+      "Pioneer Kitten": 1,
+      "Siamesekitten, Lyceum": 1,
+      "Siamesekitten, OilRig": 4,
+      "Static Kitten": 1,
+      "TA453, Charming Kitten": 1,
+      "Telecom": 2,
+      "Tortoiseshell, \u00a0Charming Kitten": 1
+    },
+    "sources": {}
+  },
+  "Iran, APT 35": {
+    "total_incidents": 6,
+    "targets": {
+      "Government": 1,
+      "Pharmaceutical": 1,
+      "Research": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 3
+    }
+  },
+  "Iranian Revolutionary Guard": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Iranian government": {
+    "total_incidents": 2,
+    "targets": {
+      "Utilities": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "MalKamak": {
+    "total_incidents": 4,
+    "targets": {
+      "Aerospace": 1,
+      "Telecom": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 2
+    }
+  },
+  "MuddyWater": {
+    "total_incidents": 32,
+    "targets": {
+      "Aviation": 1,
+      "Banking": 1,
+      "Energy": 1,
+      "Government": 4,
+      "Technology": 2,
+      "Telecom": 4,
+      "Telecommunications": 3
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 16
+    }
+  },
+  "Phosphorus": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Pioneer Kitten": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Siamesekitten, Lyceum": {
+    "total_incidents": 2,
+    "targets": {
+      "Software": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Siamesekitten, OilRig": {
+    "total_incidents": 8,
+    "targets": {
+      "Energy": 1,
+      "Government": 1,
+      "Telecom": 1,
+      "Telecommunications": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 4
+    }
+  },
+  "Static Kitten": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "TA453, Charming Kitten": {
+    "total_incidents": 2,
+    "targets": {
+      "Research": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Tortoiseshell, \u00a0Charming Kitten": {
+    "total_incidents": 2,
+    "targets": {
+      "Defense": 1
+    },
+    "sources": {
+      "Iran (Islamic Republic of)": 1
+    }
+  },
+  "Utilities": {
+    "total_incidents": 1,
+    "targets": {},
+    "sources": {
+      "Iranian government": 1
+    }
+  },
+  "Japan": {
+    "total_incidents": 3,
+    "targets": {
+      "BlackTech": 3
+    },
+    "sources": {}
+  },
+  "Kazakhstan": {
+    "total_incidents": 3,
+    "targets": {
+      "Government": 1,
+      "Kazakhstan": 1
+    },
+    "sources": {
+      "Kazakhstan": 1
+    }
+  },
+  "Kimsuky": {
+    "total_incidents": 48,
+    "targets": {
+      "Academic": 1,
+      "Aerospace": 2,
+      "Defense": 3,
+      "Education": 1,
+      "Energy": 4,
+      "Government": 3,
+      "Medical": 1,
+      "Military": 1,
+      "Pharmaceutical": 1,
+      "Research": 6,
+      "University": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 24
+    }
+  },
+  "Konni Group": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 1
+    }
+  },
+  "Korea (Democratic People's Republic of)": {
+    "total_incidents": 75,
+    "targets": {
+      "Also known as APT 43": 1,
+      "Also known as Thallium, Smoke Screen, Emerald Sleet, TA-406, Sharptongue, Black Banshee, and APT43.": 1,
+      "Believed to be Lazarus Group": 2,
+      "Believed to be associated with the North Korean government": 2,
+      "Believed to be responsible for Dark Seoul, Ten Days of Rain, the Sony Pictures Entertainment attack,\u00a0the SWIFT-related bank heists,\u00a0WannaCry, and\u00a0Operation GhostSecret. Believed to use the same tools as Covellite.\u00a0Known to the U.S. government as Hidden Cobra.\u00a0Also known as BlueNoroff and Temp.Hermit.": 1,
+      "Believed to be the work of Kimusky, also known as Thallium and Smoke Screen.": 2,
+      "Cerium": 2,
+      "Hidden Cobra": 1,
+      "Kimsuky": 24,
+      "Konni Group": 1,
+      "Lazarus Group": 28,
+      "Moonstone Sleet": 1,
+      "Pharmaceutical": 2,
+      "Research": 2,
+      "Sandworm": 1,
+      "The Lazarus Group": 1,
+      "Tonto Team": 1,
+      "Zinc": 2
+    },
+    "sources": {}
+  },
+  "Lazarus Group": {
+    "total_incidents": 56,
+    "targets": {
+      "Banking": 1,
+      "Defense": 7,
+      "Energy": 1,
+      "Financial": 2,
+      "Government": 1,
+      "Internet": 1,
+      "Manufacturing": 1,
+      "Media": 1,
+      "Medical": 1,
+      "Military": 1,
+      "Research": 2,
+      "Software": 3,
+      "Technology": 3,
+      "Telecom": 1,
+      "Telecommunications": 1,
+      "University": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 28
+    }
+  },
+  "Moonstone Sleet": {
+    "total_incidents": 2,
+    "targets": {
+      "Aerospace": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 1
+    }
+  },
+  "Sandworm": {
+    "total_incidents": 40,
+    "targets": {
+      "Aviation": 2,
+      "Defense": 2,
+      "Government": 5,
+      "Infrastructure": 2,
+      "Media": 2,
+      "Software": 1,
+      "Telecom": 2,
+      "Telecommunications": 2,
+      "Transportation": 2
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 1,
+      "Russian Federation": 19
+    }
+  },
+  "The Lazarus Group": {
+    "total_incidents": 2,
+    "targets": {
+      "Research": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 1
+    }
+  },
+  "Zinc": {
+    "total_incidents": 4,
+    "targets": {
+      "Pharmaceutical": 1,
+      "Research": 1
+    },
+    "sources": {
+      "Korea (Democratic People's Republic of)": 2
+    }
+  },
+  "Banking": {
+    "total_incidents": 2,
+    "targets": {},
+    "sources": {
+      "Lazarus Group": 1,
+      "MuddyWater": 1
+    }
+  },
+  "Morocco": {
+    "total_incidents": 1,
+    "targets": {
+      "Government of Morocco": 1
+    },
+    "sources": {}
+  },
+  "Myanmar": {
+    "total_incidents": 1,
+    "targets": {
+      "Mustang Panda": 1
+    },
+    "sources": {}
+  },
+  "National Security Agency, Tailored Access Operations": {
+    "total_incidents": 2,
+    "targets": {
+      "University": 1
+    },
+    "sources": {
+      "United States": 1
+    }
+  },
+  "Nodaria": {
+    "total_incidents": 6,
+    "targets": {
+      "Government": 3
+    },
+    "sources": {
+      "Russian Federation": 3
+    }
+  },
+  "Ocean Lotus": {
+    "total_incidents": 6,
+    "targets": {
+      "Government": 2,
+      "Internet": 1
+    },
+    "sources": {
+      "Vietnam": 3
+    }
+  },
+  "Pakistan": {
+    "total_incidents": 26,
+    "targets": {
+      "APT 36": 17,
+      "APT 36, Mythic Leopard": 1,
+      "Aggah, Gorgon Group": 1,
+      "Believed to be the work of the Pakistani government": 1,
+      "Energy": 1,
+      "Government": 1,
+      "Pakistan": 2
+    },
+    "sources": {
+      "Pakistan": 2
+    }
+  },
+  "Palestine, State of": {
+    "total_incidents": 5,
+    "targets": {
+      "APT-C-23": 2,
+      "Also known as AridViper and\u00a0Desert Falcon.": 1,
+      "Believed to be the work of Hamas.": 1,
+      "Believed to be the work of Palestine's government": 1
+    },
+    "sources": {}
+  },
+  "Possibly linked to Sandworm.": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Russian Federation": 1
+    }
+  },
+  "Russia": {
+    "total_incidents": 2,
+    "targets": {
+      "University": 1
+    },
+    "sources": {
+      "Russian Federation": 1
+    }
+  },
+  "Russian Federation": {
+    "total_incidents": 90,
+    "targets": {
+      "APT 28": 18,
+      "Believed to be affiliated with the Russian government": 1,
+      "Believed to be affiliated with the Russian government. Also known as From Russia With Love (FRwL).": 2,
+      "Believed to be the work of Russia's government": 4,
+      "Believed to be the work of the Russian government": 1,
+      "Believed to be the work of the government of the Russian Federation.": 1,
+      "Calisto": 3,
+      "Crouching Yeti": 1,
+      "Fancy Bear, APT 28": 1,
+      "Gamaredon": 13,
+      "Ghostwriter": 3,
+      "Government": 2,
+      "Mustang Panda": 1,
+      "Nodaria": 3,
+      "Possibly linked to Sandworm.": 1,
+      "Russia": 1,
+      "Russian Federation": 2,
+      "Russian government": 1,
+      "Sandworm": 19,
+      "The Dukes": 5,
+      "Turla": 5
+    },
+    "sources": {
+      "Russian Federation": 2
+    }
+  },
+  "Russian government": {
+    "total_incidents": 2,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {
+      "Russian Federation": 1
+    }
+  },
+  "The Dukes": {
+    "total_incidents": 10,
+    "targets": {
+      "Civil society": 1,
+      "Government": 1,
+      "Medical": 1,
+      "Software": 1,
+      "Technology": 1
+    },
+    "sources": {
+      "Russian Federation": 5
+    }
+  },
+  "Turla": {
+    "total_incidents": 10,
+    "targets": {
+      "Defense": 1,
+      "Government": 2,
+      "Military": 2
+    },
+    "sources": {
+      "Russian Federation": 5
+    }
+  },
+  "Spain": {
+    "total_incidents": 1,
+    "targets": {
+      "Believed to be the work of the Spanish government": 1
+    },
+    "sources": {}
+  },
+  "Syrian Arab Republic": {
+    "total_incidents": 2,
+    "targets": {
+      "Allosh, Syrian Government": 2
+    },
+    "sources": {}
+  },
+  "Taiwan, United States": {
+    "total_incidents": 5,
+    "targets": {
+      "Aerospace": 1,
+      "Defense": 1,
+      "Industrial": 1,
+      "Military": 1,
+      "Research": 1
+    },
+    "sources": {}
+  },
+  "Turkey": {
+    "total_incidents": 1,
+    "targets": {
+      "Government of Turkey": 1
+    },
+    "sources": {}
+  },
+  "Ukraine": {
+    "total_incidents": 11,
+    "targets": {
+      "Financial": 1,
+      "Infrastructure": 1,
+      "Ukrainian IT Army": 9
+    },
+    "sources": {}
+  },
+  "Ukrainian IT Army": {
+    "total_incidents": 18,
+    "targets": {
+      "Aerospace": 1,
+      "Defense": 1,
+      "Energy": 1,
+      "Government": 1,
+      "Manufacturing": 1,
+      "Media": 1,
+      "Military": 1,
+      "Technology": 1,
+      "Transportation": 1
+    },
+    "sources": {
+      "Ukraine": 9
+    }
+  },
+  "United Arab Emirates": {
+    "total_incidents": 1,
+    "targets": {
+      "Believed to be the work of the United Arab Emirates government": 1
+    },
+    "sources": {}
+  },
+  "United States": {
+    "total_incidents": 1,
+    "targets": {
+      "National Security Agency, Tailored Access Operations": 1
+    },
+    "sources": {}
+  },
+  "Unknown": {
+    "total_incidents": 1,
+    "targets": {
+      "Government": 1
+    },
+    "sources": {}
+  },
+  "Vietnam": {
+    "total_incidents": 3,
+    "targets": {
+      "Ocean Lotus": 3
+    },
+    "sources": {}
+  }
+}
